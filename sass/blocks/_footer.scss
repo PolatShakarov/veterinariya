@@ -1,0 +1,19 @@
+/* saytning pastgi stillar uchun */
+
+.site__footer{
+    background-color: white;
+}
+
+.footer__container{
+    display: flex;
+    align-items: center;
+    width: 309px;
+    justify-content: space-between;
+    margin-left: 37px;
+    margin-right: 150px;
+}
+
+.footer__link{
+    display: inline-block;
+    margin-left: 30px;
+}
